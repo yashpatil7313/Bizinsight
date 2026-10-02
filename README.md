@@ -24,6 +24,8 @@ BizInsight is a lightweight, single-page application that turns your raw sales d
 2. Open `index.html` in any modern web browser.
 3. Drag and drop your `.csv` or `.xlsx` sales data file.
 4. Explore your dashboard!
+   
+Live link - https://clever-churros-cf417e.netlify.app
 
 ## 📄 License
 
