@@ -25,9 +25,6 @@ BizInsight is a lightweight, single-page application that turns your raw sales d
 3. Drag and drop your `.csv` or `.xlsx` sales data file.
 4. Explore your dashboard!
 
-## 💡 Try the Demo
-*(Add your live deployment link here once you host it, e.g., https://yourusername.github.io/bizinsight)*
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
